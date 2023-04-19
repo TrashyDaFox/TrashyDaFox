@@ -29,4 +29,4 @@
 <!-- Profile -->
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Ant767&theme=algolia&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=algolia&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant767&theme=algolia&show_icons=true">
