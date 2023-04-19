@@ -28,10 +28,4 @@
 
 <!-- Profile -->
 <br />
-<details open="open">
-  <summary><b>☄️ Profile</b></summary>
-  <br />  
-  <div align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ant767&theme=react)](https://github.com/Ant767)
-  </div>
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ant767&theme=react)](https://github.com/Ant767)
