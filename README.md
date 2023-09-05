@@ -24,7 +24,7 @@
 
 > Contact me
 
-- Discord: [TRASH#3471](https://discordapp.com/users/693208615451885568/)
+- Discord: [@powertrash](https://discordapp.com/users/693208615451885568/)
 
 <!-- Profile -->
 <br />
