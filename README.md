@@ -13,11 +13,7 @@
 
 <!-- About -->
 <h2>📌 About me</h2>
-
-- 💻 I like making minecraft addons, websites, and more
-- 🏫 I FUCKING HATE SCHOOL!
-- 🐕 I like dogs
-- *️⃣ My pronouns are whatever/the/fuck/you/want
+I'm just a normal human
 
 <!-- Socials -->
 <h2>🌐 Socials</h2>
@@ -28,5 +24,5 @@
 
 <!-- Profile -->
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=Ant767&theme=algolia&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant767&theme=algolia&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Ant767&theme=onedark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant767&theme=onedark&show_icons=true">
