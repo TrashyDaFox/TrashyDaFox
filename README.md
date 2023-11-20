@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <h2> Hello, I'm Ant767, I do things.</h2>
+  <h2> Hello, I'm TheLegendaryTrashcan, I do things.</h2>
   </a>
   <br />
 </div>
