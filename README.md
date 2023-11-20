@@ -5,7 +5,7 @@
   <br />
 </div>
 
-<div>  
+<div align="center">
   <a href="https://github.com/Ant767">
     <img src="https://komarev.com/ghpvc/?username=Ant767&label=Visitors" alt="profile views" />
   </a>
