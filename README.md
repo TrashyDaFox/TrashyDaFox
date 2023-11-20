@@ -26,4 +26,4 @@ I'm just a normal human
 <br />
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Ant767&theme=onedark&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant767&theme=onedark&show_icons=true">-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ant767&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=Ant767&show_icons=true&theme=transparent">
