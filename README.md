@@ -1,31 +1,27 @@
-<!-- Introduction -->
 <div align="center">
-  <h2> Hello, I'm TheLegendaryTrashcan, I do things.</h2>
-  </a>
-  <br />
+  
+  ![tarshy](https://github.com/Ant767/Ant767/assets/122332042/eec8b755-4611-47e7-9ee9-ba8991a92e03)
+
+
+  ![](https://img.shields.io/discord/922867041029984316?style=flat&label=Discord%20Server)
 </div>
 
-<div align="center">
-  <a href="https://github.com/Ant767">
-    <img src="https://komarev.com/ghpvc/?username=Ant767&label=Visitors" alt="profile views" />
-  </a>
-</div>
+---
 
-<!-- About -->
-<h2>📌 About me</h2>
-I'm just a normal human
+# A Minecraft Bedrock addon developer.
 
-<!-- Socials -->
-<h2>🌐 Socials</h2>
+I make useful tools for your Minecraft Bedrock realms/servers.
 
-> Contact me
+# 💻 Current projects:
+- Azalea
+- Torchflower (Coming Soon)
 
-- Discord: [@powertrash](https://discordapp.com/users/693208615451885568/)
+---
 
-<!-- Profile -->
-<br />
-<!--<img src="https://github-readme-stats.vercel.app/api?username=Ant767&theme=onedark&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant767&theme=onedark&show_icons=true">-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ant767&show_icons=true&theme=onedark">
-</div>
+My Discord username: **powertrash**
+
+My Youtube channel: [**@azaleadev**](https://youtube.com/@azaleadev)
+
+---
+
+Azalea MCPEDL link: [https://mcpedl.com/azalea](https://mcpedl.com/azalea)
