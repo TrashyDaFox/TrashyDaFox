@@ -18,7 +18,7 @@
 
 - Azalea
 - Torchflower (Coming Soon)
-- [TrashChat](https://trashchat.org)
+- [TrashChat](https://chat.trashdev.org)
 
 </details>
 
