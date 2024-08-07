@@ -1,43 +1,30 @@
 <div align="center">
-  
-  ![adasdasdasdasdasdasdasdasd](https://github.com/Ant767/Ant767/assets/122332042/0adb597c-f815-434c-b15d-fbf08e948f64)
 
+  # Trashy :3
 
-  ![](https://img.shields.io/discord/922867041029984316?style=flat&label=Discord%20Server)
-
-</div>
-
----
-
-# A Minecraft Bedrock addon developer.
-
-### I make useful tools for your Minecraft Bedrock realms/servers. I also make some miscellaneous projects :)
-<details>
-
-  <summary>Current projects</summary>
-
-- Azalea
-- Torchflower (Coming Soon)
-- [TrashChat](https://chat.trashdev.org)
-
-</details>
-
----
-
-My Discord username: **powertrash**
-
-My Youtube channel: [**@azaleadev**](https://youtube.com/@azaleadev)
-
----
-
-Azalea MCPEDL link: [https://mcpedl.com/azalea](https://mcpedl.com/azalea)
-
----
-
-# My Stats
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Ant767&theme=nord&no-frame=true&margin-w=10&column=7" />
+  ![9435-cat-17-pfpsgg](https://github.com/user-attachments/assets/a9449204-5964-40f3-ad2c-72396bd4de69)
 
 </div>
+
+I am the absolute worst developer, but im just trying to have some fun
+
+If you find my things useful, you should join my Discord server at [https://discord.gg/leafessentials](https://discord.gg/leafessentials)
+
+Languages:
+- Go (not very well)
+- Rust (currently learning a bit, dont really like using it tho)
+- Javascript
+- Typescript
+
+I also know Svelte, its the best frontend framework. If you think React is better you need to get checked
+
+btw the reason my name here is ant767 is because this was an alt that slowly turned into my main account and i cant change the name
+
+Minecraft Java Account: InternetCatOwO
+Minecraft Bedrock Account: Trash9240/AnUwUFurry (im active on both idk why)
+
+---
+
+## Current Projects
+
+[uwu-auth](https://github.com/Ant767/uwu-auth) [leaf essentials](https://github.com/LeafUtils/Leaf-Essentials)
