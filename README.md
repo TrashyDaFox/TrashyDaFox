@@ -4,8 +4,8 @@
 
 </div>
 
-:cherry_blossom: Pronouns: She/Her :transgender_flag:
-:fox_face: Furry
+- :cherry_blossom: Pronouns: **She/Her** :transgender_flag:
+- :fox_face: Furry
 
 *I make things for Minecraft: Bedrock Edition*
 
@@ -13,13 +13,17 @@
 
 ## Current Projects
 
-### Leaf Essentials
+### 🌿 Leaf Essentials
 
 Free and open-source essentials addon for Minecraft Bedrock
 
-### MCBETools
+### 🏺 MCBETools
 
 A website for downloading and uploading Minecraft Bedrock content
+
+### 🦊 FoxChat
+
+Coming soon... :3
 
 ---
 
