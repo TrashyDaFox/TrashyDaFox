@@ -22,11 +22,19 @@ Free and open-source essentials addon for Minecraft Bedrock
 
 ### 🏺 MCBETools
 
-A website for downloading and uploading Minecraft Bedrock content
+A website for downloading and uploading Minecraft Bedrock content (backend closed source at the moment)
 
-### 🦊 FoxChat
+### 🐈 CatFileManager
 
-Coming soon... :3
+A file manager... heavily wip, but it does exist :3
+
+### 🪴 FernNetwork
+
+Coming soon... (probably not)
+
+### 🪻 LavendarMC
+
+Coming soon, again
 
 ---
 
