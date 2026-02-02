@@ -1,13 +1,16 @@
 <div align="center">
   
-![grewgwergerwgerw](https://github.com/user-attachments/assets/e14c24fc-0534-4f87-910f-bad8a04b11bd)
+![Trashy_Model_animation](https://github.com/user-attachments/assets/7c9d5468-d9f7-4e2f-9c23-a675e8ea6840)
 
 </div>
 
 - :cherry_blossom: Pronouns: **She/Her** :transgender_flag:
-- :fox_face: Furry
+- :fox_face: Furry (still havent decided on a fursona)
+- :penguin: Linux addict
 
-*I make things for Minecraft: Bedrock Edition*
+Website: https://ashyis.gay/
+
+*I make things for MCBE. Also some random non minecraft things ocasionally :3*
 
 ---
 
